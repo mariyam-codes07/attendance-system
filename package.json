@@ -1,0 +1,25 @@
+{
+  "name": "attendance-marker-system",
+  "version": "1.0.0",
+  "description": "Full-stack responsive Attendance Marker Website with Admin & Student Portals, REST APIs, and Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "attendance",
+    "tracker",
+    "admin-portal",
+    "student-portal",
+    "express",
+    "sqlite"
+  ],
+  "author": "Antigravity AI",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}

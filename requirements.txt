@@ -1,0 +1,8 @@
+# SmartAttendance Marker System
+# Built using Python's built-in standard library:
+# - sqlite3 (built-in database)
+# - http.server (built-in web & REST API server)
+# - hashlib & secrets (built-in secure password hashing)
+#
+# No external pip packages are required!
+# You can run directly with: python server.py
